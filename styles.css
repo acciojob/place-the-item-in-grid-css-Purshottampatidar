@@ -4,6 +4,7 @@
 	display:grid;
 	grid-template-columns:repeat(2,1fr);
 	gird-template-rows:repeat(2,1fr);
+	width:200px;
 }
 .item{
 	width:100px;
